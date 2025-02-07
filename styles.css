@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: aliceblue;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 70px;
+    font-family: "Josefin Sans", serif;
+}
+
+#img {
+
+    width: 100%;
+    border: 5px solid white;
+}
+h1 {
+    font-size: 3em;
+    text-transform: uppercase;
+}
